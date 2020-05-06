@@ -1,5 +1,5 @@
 *{padding:0; margin:0; box-sizing:border-box;}
-			html{background:#444; padding:20px;}
+			html{background:#111; padding:20px;}
 
 			#basket_main{width:1500px; height:2800px; background:#af6830; border:5px solid #fff; position:relative; margin:0 auto;}
 			#basket_left{position:absolute; top:0; left:0; width:100%;}
